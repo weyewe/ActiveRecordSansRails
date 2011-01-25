@@ -8,3 +8,13 @@ Reading material:
 4. http://juixe.com/techknow/index.php/2009/01/14/activerecord-ruby-on-rails-optional/
 5. http://www.elfsternberg.com/2008/06/07/using-activerecordschema-to-create-databases-without-rails/
 
+
+To connect to the database, add the appropriate config at config/project_config.yaml
+and run the config/load_config.rb
+
+To see the example of saving object into the DB, run 
+  action/execute.rb
+
+To get the data back from the DB,
+  action/extract.rb
+
