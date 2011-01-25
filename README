@@ -1,0 +1,10 @@
+This is an experiment to use ActiveRecord sans Rails. 
+
+Reading material: 
+
+1. http://saaientist.blogspot.com/2007/06/databases-and-ruby-without-rails.html
+2. http://www.oreillynet.com/pub/a/ruby/2007/06/21/how-to-build-simple-console-apps-with-ruby-and-activerecord.html?page=4
+3. http://www.coffeepowered.net/2009/01/23/mass-inserting-data-in-rails-without-killing-your-performance/
+4. http://juixe.com/techknow/index.php/2009/01/14/activerecord-ruby-on-rails-optional/
+5. http://www.elfsternberg.com/2008/06/07/using-activerecordschema-to-create-databases-without-rails/
+
